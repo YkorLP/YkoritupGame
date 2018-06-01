@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-06-01T14:02:20.908-06:00
+  initializedAtString: 2018-06-01T14:02:20.908-06:00
+  log:
+  - commitID: 7fa0726d9f376348638d3724b40de3e693345575
+    mergeA: 
+    mergeB: 
+    authorName: YkorLP
+    authorEmail: 34199120+YkorLP@users.noreply.github.com
+    commitEmail: 34199120+YkorLP@users.noreply.github.com
+    commitName: YkorLP
+    summary: sdfsdf
+    description: sdfsdf
+    timeString: 2018-06-01T13:50:45.000-06:00
+    commitTimeString: 2018-06-01T13:50:45.000-06:00
+    changes:
+    - path: Ykoritup Game\Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\Levi\Documents\Games\Ykoritup-Game\Ykoritup Game\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: ef1eaa7ebc9355a89fee643ce4a7c7954e3d4b75
+    mergeA: 
+    mergeB: 
+    authorName: YkorLP
+    authorEmail: 34199120+YkorLP@users.noreply.github.com
+    commitEmail: 34199120+YkorLP@users.noreply.github.com
+    commitName: YkorLP
+    summary: fghfgh
+    description: fghfgh
+    timeString: 2018-06-01T13:49:44.000-06:00
+    commitTimeString: 2018-06-01T13:49:44.000-06:00
+    changes:
+    - path: Ykoritup Game\Assets\NewBehaviourScript.cs
+      fullPath: C:\Users\Levi\Documents\Games\Ykoritup-Game\Ykoritup Game\Assets\NewBehaviourScript.cs
+      projectPath: Assets\NewBehaviourScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Ykoritup Game\Assets\NewBehaviourScript.cs.meta
+      fullPath: C:\Users\Levi\Documents\Games\Ykoritup-Game\Ykoritup Game\Assets\NewBehaviourScript.cs.meta
+      projectPath: Assets\NewBehaviourScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 2c3a01b51d784cc8fe29fa5d2c182701cc25d354
+    mergeA: 
+    mergeB: 
+    authorName: YkorLP
+    authorEmail: 34199120+YkorLP@users.noreply.github.com
+    commitEmail: 34199120+YkorLP@users.noreply.github.com
+    commitName: YkorLP
+    summary: sadasd
+    description: sadasd
+    timeString: 2018-06-01T13:45:35.000-06:00
+    commitTimeString: 2018-06-01T13:45:35.000-06:00
+    changes:
+    - path: Ykoritup Game\Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\Levi\Documents\Games\Ykoritup-Game\Ykoritup Game\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
